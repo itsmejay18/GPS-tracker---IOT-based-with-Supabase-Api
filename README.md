@@ -230,18 +230,3 @@ gps-iot-tracker/
 - REST API
 - HTTPS
 
----
-
-# 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-# 👨‍💻 Author
-
-Developed by **Jay Ababon**
-
-GitHub: https://github.com/yourusername
-
----
